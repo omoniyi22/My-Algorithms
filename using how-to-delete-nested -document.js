@@ -1,5 +1,5 @@
 
-// This is the DB
+// This is the Collection
 {
     "_id": "5eb0237be1c2962668b1bdf9",
     "id": 1,
