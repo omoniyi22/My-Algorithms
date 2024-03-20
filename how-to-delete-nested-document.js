@@ -10,6 +10,7 @@ function R() {
         console.log(a) // show me the position
         }
         console.log(b) // show me my new array
+        
     }
     console(b + "is the final result") // show me my result of the new array and it won't have what i popped out
 }
